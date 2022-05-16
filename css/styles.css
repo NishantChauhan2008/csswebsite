@@ -1,0 +1,122 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  color: #40514E;
+}
+h1{
+  width: 15%;
+  margin: 0 auto;
+  color: #66BFBF;
+  font-size: 3em;
+  line-height: 1.5;
+}
+.top-container{
+  padding-top: 100px;
+  background-color: #EAF6F6;
+  position: relative;
+}
+.top-cloud{
+  position: absolute;
+  top:40px;
+  right:250px;
+}
+.profile-para{
+  width: 70%;
+  margin: 0 auto;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.middle-container{
+  padding-top: 30px;
+  position:relative;
+  /* margin-bottom: 75px; */
+}
+hr{
+  width: 5%;
+  border-style: dotted none none;
+  border-width: thick;
+  border-color: gray;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  line-height: 3;
+  margin-top: 40px;
+  padding: 20px;
+
+}
+.study{
+  color: #66BFBF;
+  font-weight: normal;
+}
+h2{
+  color: #11999E;
+}
+h3{
+  color:#11999E;
+}
+a{
+  color: #11999E;
+}
+.getintouch1{
+  line-height: 2;
+}
+.getintouch2{
+  padding-bottom: 40px;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px;
+  text-align: left;
+  /* line-height: 2; */
+}
+.myskillimage1{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.myskillimage2{
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+.profile-photo{
+  border: 2px solid black;
+  width: 15%;
+  border-radius: 100%;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.footer-link{
+  margin:30px;
+  text-decoration: none;
+}
+.desc{
+  color: #EAF6F6;
+}
